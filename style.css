@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+}
+
+.logo {
+    max-width: 250px;
+}
+
+.header {
+    padding: 15px;
+}
+
+.banner {
+    background-color: white;
+    color: white;
+    padding: 20% 20%;
+    background-image: url('./images/Banner1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 32px;
+    font-family: serif;
+}
+
+.content {
+    font-family: sans-serif;
+    padding: 5% 35% 15% 10%;
+    font-size: 26px;
+    background-image: url('./images/flower.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.fancy-text {
+    color: #FFD500;
+}
+
+.footer {
+    background-color: #222222;
+    color: white;
+    padding: 30px;
+    border-radius: 20px 0px 0px 0px;
+}
+
+.footer>ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
