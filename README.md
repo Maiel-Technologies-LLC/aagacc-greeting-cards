@@ -1,1 +1,1 @@
-# aagacc-greeting-cards
+# aagacc-mail-designs
