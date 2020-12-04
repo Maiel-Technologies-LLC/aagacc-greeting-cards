@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+}
+
+.logo {
+    max-width: 250px;
+}
+
+.header {
+    padding: 15px;
+}
+
+.banner {
+    background-color: white;
+    color: white;
+    padding: 20%;
+    background-image: url('./images/artem-kniaz-0Ad6Q6SQo1Y-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    font-size: 26px;
+    font-family: Helvetica;
+}
+
+.content {
+    font-family: sans-serif;
+    padding: 10% 45% 15% 10%;
+    font-size: 25px;
+    background-image: url('./images/undraw_having_fun_iais.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 120%;
+}
+
+.fancy-text {
+    color: #FFD500;
+}
+
+.footer {
+    background-color: #222222;
+    color: white;
+    padding: 30px;
+}
+
+.footer>ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
