@@ -17,18 +17,19 @@
     background-image: url('./images/Banner1.png');
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: bottom;
     font-size: 32px;
-    font-family: serif;
+    font-family: "Brush Script MT";
 }
 
 .content {
     font-family: sans-serif;
-    padding: 5% 35% 15% 10%;
-    font-size: 26px;
+    padding: 5% 45% 15% 10%;
+    font-size: 25px;
     background-image: url('./images/flower.png');
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: 120% 0px;
 }
 
 .fancy-text {
@@ -39,7 +40,6 @@
     background-color: #222222;
     color: white;
     padding: 30px;
-    border-radius: 20px 0px 0px 0px;
 }
 
 .footer>ul {
