@@ -1,1 +1,0 @@
-# aagacc-mail-designs
